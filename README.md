@@ -1,2 +1,2 @@
 # pen_testing
-report on comprehensive network penetration test using a wide variety of tools and attacks
+Provided with images of a fake company’s web server and client machine, I carried out a comprehensive network penetration test using a wide variety of tools and attacks. At the end of the test, I had successfully gained root access on both servers, having started with no credentials or special access. I then wrote a penetration testing report to summarize my findings and mitigations.
